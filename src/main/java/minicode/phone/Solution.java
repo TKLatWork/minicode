@@ -1,4 +1,4 @@
-package minicode;
+package minicode.phone;
 
 import java.util.ArrayList;
 import java.util.Arrays;

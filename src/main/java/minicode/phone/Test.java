@@ -1,4 +1,4 @@
-package minicode;
+package minicode.phone;
 
 import java.util.Arrays;
 import java.util.HashMap;
